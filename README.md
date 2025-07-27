@@ -83,7 +83,10 @@ com.example.finalprojectfinance
 
 7. Explore: add accounts, transactions, holdings, loans, and watch charts update live!
 
-🛡️ Security & Next Steps
+---
+
+## 🛡️ Security & Next Steps
+
 1. Lock down Firestore rules before release
 2. Add user auth (Email/Google)
 3. Support multiple currencies & exchange-rate API
